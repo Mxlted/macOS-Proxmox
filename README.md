@@ -35,12 +35,12 @@ net0: vmxnet3=(MAC ADDRESS),bridge=vmbr0
 numa: 0
 ostype: other
 scsihw: virtio-scsi-pci
-smbios1: uuid=24205563-433a-43f9-bdb6-c55c564557b9
+smbios1: [SOMETHING]
 sockets: 1
-usb0: host=1d6b:0104
+usb0: [SOMETHING]
 vga: none
 virtio0: local-lvm:vm-103-disk-1,cache=unsafe,discard=on,size=250G
-vmgenid: 8d619334-a8fa-425c-ba7c-f2099d4e29a6
+vmgenid: [SOMETHING]
 ```
 
 ### System Requirements and Notes
