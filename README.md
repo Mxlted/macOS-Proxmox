@@ -1,4 +1,4 @@
-# Proxmox macOS GPU Acceleration Configuration (Personal Reference)
+# Proxmox macOS (Personal Reference) w/ GPU
 
 This repository houses my personal configuration file for setting up a macOS virtual machine on Proxmox VE with GPU acceleration. It's specifically tailored for a system equipped with an AMD Ryzen 7 5800X CPU and an AMD Radeon RX 6600 XT GPU, enabling GPU passthrough for enhanced graphics performance in macOS VMs.
 
